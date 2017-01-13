@@ -3,6 +3,7 @@
 	<title>Relevant Coursework</title>
 </head>
 <body>
+
 <h1>Statistics</h1>
 <ul>
 	<li>STA 104: Non-parametric Statistics</li>
@@ -15,8 +16,10 @@
 	<li>STA 141B: Data and Web Technologies for Data Analysis</li>
 </ul>
 <h1>Managerial Economics</h1>
+<ul>
 	<li>ARE 106: Econometrics</li>
 	<li>ARE 107: Econometrics for Business Decisions</li>
+</ul>
 </body>
 </html>
 
