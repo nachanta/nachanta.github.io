@@ -15,9 +15,12 @@
 	<li>STA 141A: Fundamentals of Statistical Data Science</li>
 	<li>STA 141B: Data and Web Technologies for Data Analysis</li>
 
+</ul>
+
 <h1>Managerial Economics</h1>
 
+<ul>
 	<li>ARE 106: Econometrics</li>
 	<li>ARE 107: Econometrics for Business Decisions</li>
 
-
+</ul>
