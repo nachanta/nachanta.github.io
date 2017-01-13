@@ -19,7 +19,5 @@
 
 	<li>ARE 106: Econometrics</li>
 	<li>ARE 107: Econometrics for Business Decisions</li>
-</ul>
-</body>
-</html>
+
 
