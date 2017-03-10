@@ -2,3 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
+head {
+    background-color: lightblue;
+}
