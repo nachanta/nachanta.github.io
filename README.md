@@ -1,4 +1,8 @@
-# Courses in Statistics
+# About Me
+
+My name is Nivi Achanta and I'm graduating UC Davis in 2017 with a degree in statistics and another one in managerial economics. 
+
+# <center> Courses in Statistics </center>
 
 #### STA 104: Non-parametric Statistics
 #### STA 106: Analaysis of Variance
@@ -12,17 +16,17 @@
 
 #### STA 141B: Data and Web Technologies for Data Analysis
 **Projects** 
-- [Assignment 1: Doomsday Algorithm](https://github.com/nachanta/nachanta.github.io/blob/master/assignment1.ipynb)
-- [Assignment 2: Image Processing and SVD]
-- [Assignment 3: Excel I/O, Data Manipulation, and Plotting]
-- [Assignment 4: APIs and Model Construction]
-- [Assignment 5: Webscraping and Natural Language Processing]
-- [Assignemnt 6: SQL and Mapping]
-- [Final Project: Analysis of the Gender Achievement Gap]
+- [Assignment 1: Doomsday Algorithm](Portfolio/assignment1.html)
+- [Assignment 2: Image Processing and SVD](Portfolio/assignment2.html)
+- [Assignment 3: Excel I/O, Data Manipulation, and Plotting](Portfolio/assignment3.html)
+- [Assignment 4: APIs and Model Construction](Portfolio/assignment4.html)
+- [Assignment 5: Webscraping and Natural Language Processing](Portfolio/assignment4.html)
+- [Assignemnt 6: SQL and Mapping](Portfolio/assignment5.html)
+- [Final Project: Analysis of the Gender Achievement Gap](Portfolio/assignment6.html)
 		
 
 
-# Courses in Managerial Economics
+# <center> Courses in Managerial Economics </center>
 
 #### ARE 106: Econometrics
 #### ARE 107: Econometrics for Business Decisions
