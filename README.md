@@ -1,6 +1,6 @@
 # About Me 
 
-<img src = https://media.licdn.com/media/AAEAAQAAAAAAAAeLAAAAJGUxNDk1YzMxLTdjZTQtNDk5ZS1iNzc3LWUwNTAzOTIxZGFiZg.jpg style="width:150px;height:100px;">
+<img src = https://media.licdn.com/media/AAEAAQAAAAAAAAeLAAAAJGUxNDk1YzMxLTdjZTQtNDk5ZS1iNzc3LWUwNTAzOTIxZGFiZg.jpg>
 
 My name is Nivi Achanta and I'm graduating UC Davis in 2017 with a degree in statistics and another one in managerial economics. 
 
