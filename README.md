@@ -6,7 +6,7 @@ I will be working full-time in San Francisco as a consultant starting in Fall 20
 
 In my free time, I win case competitions, hang out with my friends, go rock climbing, and read as many books as I possibly can without my eyes hurting. I am also a connoisseur of Trader Joe's cheese and budget wine. 
 
-Please feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/niviachanta) and check out my [résumé](https://drive.google.com/file/d/0Bwp1-hdDHOYXWkNaS0hjenROWkk/view)!
+Please feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/niviachanta) and check out my [résumé](https://drive.google.com/file/d/0Bwp1-hdDHOYXWkNaS0hjenROWkk/view?usp=sharing)!
 
 # <center> Courses in Statistics </center>
 
