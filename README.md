@@ -1,17 +1,11 @@
 # Courses in Statistics
 
 STA 104: Non-parametric Statistics
-
 STA 106: Analaysis of Variance
-
 STA 108: Regression Analysis
-
 STA 130: Mathematical Statistics
-
 STA 137: Applied Time Series Analysis
-
 STA 138: Analysis of Categorical Data
-
 STA 141A: Fundamentals of Statistical Data Science
 
 **Projects**
