@@ -1,8 +1,12 @@
 # About Me 
 
-<img src = https://media.licdn.com/media/AAEAAQAAAAAAAAeLAAAAJGUxNDk1YzMxLTdjZTQtNDk5ZS1iNzc3LWUwNTAzOTIxZGFiZg.jpg>
+My name is Nivi Achanta and I'm graduating UC Davis in 2017 with a degree in statistics and another one in managerial economics. During my time at Davis, I have helped found and grow two campus organizations: [Consult Your Community Davis](www.cycdavis.com) and [Net Impact Davis](www.netimpactdavis.com). CYC Davis is a chapter of a national undergraduate consulting group that offers pro-bono services to local businesses in the Davis area, and Net Impact is the undergraduate chapter of an [international non-profit](www.netimpact.org) that I founded in October 2016. Please feel free to check out the websites to see what my teams and I have been working on over the years. 
 
-My name is Nivi Achanta and I'm graduating UC Davis in 2017 with a degree in statistics and another one in managerial economics. 
+I will be working full-time in San Francisco as a consultant starting in Fall 2017, and ultimately, my goal is to fix America's education system. I have been working on an econometrics thesis, which you can find [here](coming soon!). 
+
+In my free time, I win case competitions, hang out with my friends, go rock climbing, and read as many books as I possibly can without my eyes hurting. I am also a connoisseur of Trader Joe's cheese and budget wine. 
+
+Please feel free to connect with me on [LinkedIn](www.linkedin.com/in/niviachanta) and check out my [résumé](https://drive.google.com/file/d/0Bwp1-hdDHOYXWkNaS0hjenROWkk/view)!
 
 # <center> Courses in Statistics </center>
 
@@ -14,7 +18,7 @@ My name is Nivi Achanta and I'm graduating UC Davis in 2017 with a degree in sta
 #### STA 138: Analysis of Categorical Data
 #### STA 141A: Fundamentals of Statistical Data Science
 **Projects**
-- [Analysis of Lending Club Loan Data]
+- [Analysis of Lending Club Loan Data](https://github.com/nachanta/nachanta.github.io/blob/master/Lending%20Club%20Loan%20Data%20Analysis.docx)
 
 #### STA 141B: Data and Web Technologies for Data Analysis
 **Projects** 
