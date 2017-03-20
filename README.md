@@ -28,7 +28,7 @@ Please feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/niv
 - [Assignment 4: APIs and Model Construction](Portfolio/assignment4.html)
 - [Assignment 5: Webscraping and Natural Language Processing](Portfolio/assignment4.html)
 - [Assignemnt 6: SQL and Mapping](Portfolio/assignment5.html)
-- [Final Project: Analysis of the Gender Achievement Gap](Portfolio/assignment6.html)
+- [Final Project: Analysis of the Gender Achievement Gap](Portfolio/The%2BGender%2BGap_STA141B%2BFinal%2BProject%20(1).html)
 		
 
 
