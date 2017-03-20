@@ -1,5 +1,7 @@
 # <center> About Me </center>
 
+<center> <img src = https://media.licdn.com/media/AAEAAQAAAAAAAAeLAAAAJGUxNDk1YzMxLTdjZTQtNDk5ZS1iNzc3LWUwNTAzOTIxZGFiZg.jpg>
+
 My name is Nivi Achanta and I'm graduating UC Davis in 2017 with a degree in statistics and another one in managerial economics. During my time at Davis, I have helped found and grow two campus organizations: [Consult Your Community Davis](http://cycdavis.com) and [Net Impact Davis](http://netimpactdavis.com). CYC Davis is a chapter of a national undergraduate consulting group that offers pro-bono services to local businesses in the Davis area, and Net Impact is the undergraduate chapter of an [international non-profit](http://netimpact.org) that I founded in October 2016. Please feel free to check out the websites to see what my teams and I have been working on over the years. 
 
 I will be working full-time in San Francisco as a consultant starting in Fall 2017, and ultimately, my goal is to fix America's education system. I have been working on an econometrics thesis, which you can find [here eventually](coming soon!). 
