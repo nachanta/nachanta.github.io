@@ -8,6 +8,9 @@ In my free time, I win case competitions, hang out with my friends, go rock clim
 
 Please feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/niviachanta) and check out my [résumé](https://drive.google.com/file/d/0Bwp1-hdDHOYXWkNaS0hjenROWkk/view?usp=sharing)!
 
+# <center> Case Competitions </center>
+- [PwC Challenge 2016](PwC_Recommendation.pdf)
+
 # <center> Courses in Statistics </center>
 
 #### STA 104: Non-parametric Statistics
@@ -27,7 +30,7 @@ Please feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/niv
 - [Assignment 3: Excel I/O, Data Manipulation, and Plotting](Portfolio/assignment3.html)
 - [Assignment 4: APIs and Model Construction](Portfolio/assignment4.html)
 - [Assignment 5: Webscraping and Natural Language Processing](Portfolio/assignment4.html)
-- [Assignemnt 6: SQL and Mapping](Portfolio/assignment5.html)
+- [Assignment 6: SQL and Mapping](Portfolio/assignment5.html)
 - [Final Project: Analysis of the Gender Achievement Gap](Portfolio/The%2BGender%2BGap_STA141B%2BFinal%2BProject%20(1).html)
 		
 
