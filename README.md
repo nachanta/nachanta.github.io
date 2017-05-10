@@ -9,7 +9,7 @@ In my free time, I win case competitions, hang out with my friends, go rock clim
 Please feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/niviachanta) and check out my [résumé](https://drive.google.com/file/d/0Bwp1-hdDHOYXWkNaS0hjenROWkk/view?usp=sharing)!
 
 # <center> Consult Your Community (CYC) Davis
-- [Davis Company Landscape](https://github.com/nachanta/nachanta.github.io/blob/master/Davis_Chamber_of_Commerce_CYC.xlsx)
+- [Davis Company Landscape](Davis_Chamber_of_Commerce_CYC.xlsx)
 # <center> Case Competitions </center>
 - [PwC Challenge 2016](PwC_Recommendation.pdf)
 
