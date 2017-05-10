@@ -9,9 +9,13 @@ In my free time, I win case competitions, hang out with my friends, go rock clim
 Please feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/niviachanta) and check out my [résumé](https://drive.google.com/file/d/0Bwp1-hdDHOYXWkNaS0hjenROWkk/view?usp=sharing)!
 
 # <center> Consult Your Community (CYC) Davis
+I have been with CYC since its first engagement cycle in 2013. I was promoted from a consultant to an engagement manager to the Vice President of Internal Affairs, which has been my role for the 2016-2017 school year. Once we hired a new executive board for the 2017-2018 board, I took on consultant responsibilities once again, and web scraped the Davis Chamber of Commerce website to put together a list of all the businesses in Davis and its surrounding areas. You can find my code [here](Davis_Chamber_Code.html) and the actual spreadsheet below.
 - [Davis Company Landscape](Davis_Chamber_of_Commerce_CYC.pdf)
+
 # <center> Case Competitions </center>
+During my time at UC Davis, I have been a finalist in over 7 business case competitions. The most well known one is the PwC Challenge case competition, and during its début at UC Davis, my team and I (team Davis Women in Business) won first place. After the PwC victory, we participated in a case competition sponsored by Target in 2017, winning second place. Both cases involved a PowerPoint presentation and a write-up. To give you a good representation of my work, I've attached the written deliverable for PwC's Challenge, and the PowerPoint for Target.
 - [PwC Challenge 2016](PwC_Recommendation.pdf)
+- [Target Case 2017](DWIB_Target.pdf)
 
 # <center> Courses in Statistics </center>
 
