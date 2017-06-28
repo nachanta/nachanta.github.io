@@ -8,6 +8,10 @@ In my free time, I win case competitions, hang out with my friends, go rock clim
 
 Please feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/niviachanta) and check out my [résumé](https://drive.google.com/file/d/0Bwp1-hdDHOYXWkNaS0hjenROWkk/view?usp=sharing)!
 
+# Data Science Projects
+- [Lending Club Loan Analysis](Portfolio/lc.pdf)
+- [The Gender Achievement Gap](Portfolio/The%2BGender%2BGap_STA141B%2BFinal%2BProject%20(1).html)
+
 # <center> Consult Your Community (CYC) Davis
 I have been with CYC since its first engagement cycle in 2013. I was promoted from a consultant to an engagement manager to the Vice President of Internal Affairs, which has been my role for the 2016-2017 school year. Once we hired a new executive board for the 2017-2018 board, I took on consultant responsibilities once again, and web scraped the Davis Chamber of Commerce website to put together a list of all the businesses in Davis and its surrounding areas. You can find my code [here](Davis_Chamber_Code.html) and the actual spreadsheet below.
 - [Davis Company Landscape](Davis_Chamber_of_Commerce_CYC.pdf)
@@ -26,19 +30,15 @@ During my time at UC Davis, I have been a finalist in over 7 business case compe
 #### STA 137: Applied Time Series Analysis
 #### STA 138: Analysis of Categorical Data
 #### STA 141A: Fundamentals of Statistical Data Science
-**Projects** 
-- [Analysis of Lending Club Loan Data](Portfolio/lc.pdf)
-
 #### STA 141B: Data and Web Technologies for Data Analysis
-**Projects** 
+**Assignments** 
 - [Assignment 1: Doomsday Algorithm](Portfolio/assignment1.html)
 - [Assignment 2: Image Processing and SVD](Portfolio/assignment2.html)
 - [Assignment 3: Excel I/O, Data Manipulation, and Plotting](Portfolio/assignment3.html)
 - [Assignment 4: APIs and Model Construction](Portfolio/assignment4.html)
 - [Assignment 5: Webscraping and Natural Language Processing](Portfolio/assignment5.html)
 - [Assignment 6: SQL and Mapping](Portfolio/assignment6.html)
-- [Final Project: Analysis of the Gender Achievement Gap](Portfolio/The%2BGender%2BGap_STA141B%2BFinal%2BProject%20(1).html)
-		
+#### STA 141C: Big Data and Scalable Machine Learning		
 
 
 # <center> Courses in Managerial Economics </center>
