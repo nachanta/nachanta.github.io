@@ -26,8 +26,8 @@ During my time at UC Davis, I have been a finalist in over 7 business case compe
 #### STA 137: Applied Time Series Analysis
 #### STA 138: Analysis of Categorical Data
 #### STA 141A: Fundamentals of Statistical Data Science
-**Projects** (in process)
-- [Analysis of Lending Club Loan Data](https://github.com/nachanta/nachanta.github.io/blob/master/Lending%20Club%20Loan%20Data%20Analysis.docx)
+**Projects** 
+- [Analysis of Lending Club Loan Data](Portfolio/lc.pdf)
 
 #### STA 141B: Data and Web Technologies for Data Analysis
 **Projects** 
