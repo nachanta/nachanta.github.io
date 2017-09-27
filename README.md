@@ -1,6 +1,6 @@
 # <center> About Me </center>
 
-My name is Nivi Achanta and I'm graduating UC Davis in 2017 with a degree in statistics and another one in managerial economics. During my time at Davis, I have helped found and grow two campus organizations: [Consult Your Community Davis](http://cycdavis.com) and [Net Impact Davis](http://netimpactdavis.com). CYC Davis is a chapter of a national undergraduate consulting group that offers pro-bono services to local businesses in the Davis area, and Net Impact is the undergraduate chapter of an [international non-profit](http://netimpact.org) that I founded in October 2016. Please feel free to check out the websites to see what my teams and I have been working on over the years. 
+My name is Nivi Achanta and I've graduated from UC Davis in 2017 with a degree in statistics and another one in managerial economics. During my time at Davis, I have helped found and grow two campus organizations: [Consult Your Community Davis](http://cycdavis.com) and [Net Impact Davis](http://netimpactdavis.com). CYC Davis is a chapter of a national undergraduate consulting group that offers pro-bono services to local businesses in the Davis area, and Net Impact is the undergraduate chapter of an [international non-profit](http://netimpact.org) that I founded in October 2016. Please feel free to check out the websites to see what my teams and I have been working on over the years. 
 
 I will be working full-time in San Francisco as a consultant starting in Fall 2017, and my passion project is to fix America's education system. I have been working on an econometrics thesis, which you can find [here](Portfolio/thesisfinal.pdf). 
 
@@ -24,13 +24,14 @@ During my time at UC Davis, I have been a finalist in over 7 business case compe
 # <center> Courses in Statistics </center>
 
 #### STA 104: Non-parametric Statistics
-#### STA 106: Analaysis of Variance
+#### STA 106: Analysis of Variance
 #### STA 108: Regression Analysis
 #### STA 130: Mathematical Statistics
 #### STA 137: Applied Time Series Analysis
 #### STA 138: Analysis of Categorical Data
 #### STA 141A: Fundamentals of Statistical Data Science
 #### STA 141B: Data and Web Technologies for Data Analysis
+
 **Assignments** 
 - [Assignment 1: Doomsday Algorithm](Portfolio/assignment1.html)
 - [Assignment 2: Image Processing and SVD](Portfolio/assignment2.html)
@@ -38,6 +39,7 @@ During my time at UC Davis, I have been a finalist in over 7 business case compe
 - [Assignment 4: APIs and Model Construction](Portfolio/assignment4.html)
 - [Assignment 5: Webscraping and Natural Language Processing](Portfolio/assignment5.html)
 - [Assignment 6: SQL and Mapping](Portfolio/assignment6.html)
+
 #### STA 141C: Big Data and Scalable Machine Learning		
 
 
